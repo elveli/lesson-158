@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: elveli113/nginx:v0.19
+          image: elveli113/nginx:v0.20
           ports:
             - containerPort: 80
